@@ -5,7 +5,7 @@
       "graph", "neo4j", "database", "cypher", "statement"
     ],
     "type": "library",
-    "license": "ApacheV2",
+    "license": "MIT",
     "authors": [
         {
             "name": "Christophe Willemsen",
